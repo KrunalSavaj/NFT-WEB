@@ -1,0 +1,14 @@
+#myCarousel {
+  max-width: 840px;
+  margin: 0 auto;
+  height: 600px;
+}
+
+#myCarousel .f-carousel__slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} 
+.f-carousel__thumbs.is-modern{
+  margin:0 0 50px 0;
+}

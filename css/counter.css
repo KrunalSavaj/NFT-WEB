@@ -1,0 +1,42 @@
+
+
+.count-area {
+   
+    background:#1c2434;
+    padding: 100px 20px;
+    text-align: center;
+    color: #fff;
+    
+}
+
+
+.count-area i {
+    font-size: 40px;
+   
+}
+.count-area a{
+    color: white;
+}
+.count-digit {
+    margin: 20px 0px;
+    color: #2785ff;
+    font-weight: 700;
+    font-size: 40px;
+    font-family: var(--urbanist);
+}
+.count-title {
+    font-size: 20px;
+    font-family: var(--urbanist);
+}
+@media (max-width:992px){
+    .count-area i {
+        font-size: 28px;
+    }
+    .count-digit{
+        font-size: 28px;
+    }
+    .count-title {
+        font-size: 12px;
+    }
+
+}
